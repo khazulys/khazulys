@@ -1,4 +1,4 @@
-### Hi, I'm Khazul Yussery 👋
+### <h1>Hi 👋, I'm Khazul!</h1>
 
 
 
@@ -14,4 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=khazulys&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=khazulys&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
