@@ -1,10 +1,10 @@
-<h1>Hi 👋<br>I'm Khazul!</h1>
+<h1 align="center">Hi 👋, I'm Khazul!</h1>
 <div align="center">
     <a href="https://www.instagram.com/khazulys">
     <img src="image.png" alt="Sample screenshot" width="900">
 </a>
 </div>
-<h1>Contact</h1>
+<h1 align="center">Contact</h1>
 <div align="center">
     <a href="https://web.whatsapp.com">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="no image" width="120">
