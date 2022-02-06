@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khazul!</h1>
 <div align="center">
     <a href="https://www.instagram.com/khazulys">
-    <img src="image.png" alt="Sample screenshot" width="900">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=khazulys.visitor-badge&left_color=red&right_color=green">
-</a>
+        <img src="image.png" alt="Sample screenshot" width="900">
+    </a>
+    <a href="https://github.com/Khazulys/Instahack" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Khazulys&message=Instahack&color=Red&logo=github" alt="Khazulys - Instahack"></a>
+    <a href="https://github.com/Khazulys/Instahack"><img src="https://img.shields.io/github/stars/Khazulys/Instahack?style=social" alt="stars - Instahack"></a>
+    <a href="https://github.com/Khazulys/Instahack"><img src="https://img.shields.io/github/forks/Khazulys/Instahack?style=social" alt="forks - Instahack"></a>
 </div>
 <h3 align="center">Contacts</h3>
 <div align="center">
