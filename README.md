@@ -2,7 +2,7 @@
 <p align="center">(PYTHON PROGRAMMER)</span>
 <div align="center">
     <a href="https://www.instagram.com/khazulys">
-    <img src="image.png" alt="Sample screenshot" width="600">
+    <img src="image.png" alt="Sample screenshot" width="900">
 </a>
 </div>
 <div align="center">
