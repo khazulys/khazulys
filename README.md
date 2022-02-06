@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="no image" width="120">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100018723660346">
-        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" width="120">
+        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" width="130">
     </a>
     <a href="https://t.me/khazulys">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="120">
