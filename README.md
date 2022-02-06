@@ -2,6 +2,7 @@
 <div align="center">
     <a href="https://www.instagram.com/khazulys">
     <img src="image.png" alt="Sample screenshot" width="900">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=khazulys.visitor-badge&left_color=red&right_color=green">
 </a>
 </div>
 <h3 align="center">Contacts</h3>
