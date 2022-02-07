@@ -7,11 +7,12 @@
     <a href="https://github.com/Khazulys/Instahack"><img src="https://img.shields.io/github/stars/Khazulys/Instahack?style=social" alt="stars - Instahack"></a>
     <a href="https://github.com/Khazulys/Instahack"><img src="https://img.shields.io/github/forks/Khazulys/Instahack?style=social" alt="forks - Instahack"></a>
     <a href="https://github.com/Khazulys/Instagram/issues/"><img src="https://img.shields.io/github/issues/Khazulys/Instagram.svg" alt="issue"></a>
+    <a href="https://wa.me/message/UF3NA4R3726VL1"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask me"></a>
     <img alt="Visitor Badge" src="https://visitor-badges.glitch.me?username=khazulys&repo=Khazulys&label=VISITOR&style=flat&color=%23457BFF&contentType=svg">
 </div>
 <h3 align="center">Contacts</h3>
 <div align="center">
-    <a href="https://web.whatsapp.com">
+    <a href="https://wa.me/message/UF3NA4R3726VL1">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="no image" width="120">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100018723660346">
