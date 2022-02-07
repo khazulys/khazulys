@@ -6,6 +6,7 @@
     <a href="https://github.com/Khazulys/Instahack" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Khazulys&message=Instahack&color=Red&logo=github" alt="Khazulys - Instahack"></a>
     <a href="https://github.com/Khazulys/Instahack"><img src="https://img.shields.io/github/stars/Khazulys/Instahack?style=social" alt="stars - Instahack"></a>
     <a href="https://github.com/Khazulys/Instahack"><img src="https://img.shields.io/github/forks/Khazulys/Instahack?style=social" alt="forks - Instahack"></a>
+    <a href="https://github.com/Khazulys/Instagram/issues/"><img src="https://img.shields.io/github/issues/Khazulys/Instagram.svg" alt="issue"></a>
     <img alt="Visitor Badge" src="https://visitor-badges.glitch.me?username=khazulys&repo=Khazulys&label=VISITOR&style=flat&color=%23457BFF&contentType=svg">
 </div>
 <h3 align="center">Contacts</h3>
