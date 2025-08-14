@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:khazuldev@gmail.com"> <img src="https://img.shields.io/badge/Email-Kirim_Pesan-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:khazulyusserys@gmail.com"> <img src="https://img.shields.io/badge/Email-Kirim_Pesan-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/username-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-Cek_Profil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,7 +28,7 @@ Saya paling nyaman dan sering pakai **Python**. Tapi, saya juga bisa pakai tekno
 - 🐍 **Fokus utama saya:** Python, terutama untuk membuat *tools* dan *library*.
 - 🌐 **Bisa juga pakai:** JavaScript, HTML, CSS, Bootstrap, dan Tailwind.
 - 🌱 **Lagi belajar:** Memperdalam konsep *software design* agar bisa membuat *tools* yang lebih bagus.
-- 📫 **Kalau mau ngobrol,** bisa kontak saya di: **khazuldev@gmail.com**.
+- 📫 **Kalau mau ngobrol,** bisa kontak saya di: **khazulyusserys@gmail.com**.
 
 ---
 
