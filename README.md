@@ -61,25 +61,3 @@ Berikut adalah beberapa proyek yang telah saya kerjakan dan banggakan. Semuanya 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazulys&layout=compact&langs_count=8&theme=vapor&hide_border=true" alt="Bahasa Teratas" />
 </div>
-<a href="https://wa.me/message/UF3NA4R3726VL1"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask me"></a>
-    <img alt="Visitor Badge" src="https://visitor-badges.glitch.me?username=khazulys&repo=Khazulys&label=VISITOR&style=flat&color=%23457BFF&contentType=svg">
-</div>
-<h3 align="center">Contacts</h3>
-<div align="center">
-    <a href="https://wa.me/message/UF3NA4R3726VL1">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="no image" width="120">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100018723660346">
-        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" width="130">
-    </a>
-    <a href="https://t.me/khazulys">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="120">
-    </a>
-</div>
-<br>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=khazulys&&show_icons=true&theme=blue-green">
-</div>
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khazulys&theme=blue-green">
-</div>
